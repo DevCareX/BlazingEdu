@@ -1,0 +1,2 @@
+# BlazingEdu
+Educational Blazor Repo
